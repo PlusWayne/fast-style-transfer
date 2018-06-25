@@ -1,0 +1,2 @@
+python evaluate.py --checkpoint style/la_muse.ckpt --in-path examples/content/chicago.jpg --out-path .
+python evaluate.py --checkpoint style/rain_princess.ckpt --in-path examples/content/chicago.jpg --out-path .
